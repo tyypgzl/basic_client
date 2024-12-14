@@ -15,10 +15,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-    basic_client:
-        git:
-            url: https://github.com/your-repo/basic_client.git
-            ref: main
+    basic_client: ^1.0.0
 ```
 
 Then run `flutter pub get` to install the package.

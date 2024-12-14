@@ -1,6 +1,6 @@
 name: basic_client
 description: "A basic flutter network client"
-version: 0.0.1
+version: 1.0.0
 
 environment:
   sdk: ^3.5.4
