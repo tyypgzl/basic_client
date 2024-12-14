@@ -1,0 +1,21 @@
+name: basic_client
+description: "A basic flutter network client"
+version: 0.0.1
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.2
+  cupertino_http: ^2.0.1
+  cronet_http: ^1.3.2
+
+dev_dependencies:
+  basic_lint: ^1.0.0+1
+  flutter_test:
+    sdk: flutter
+  
