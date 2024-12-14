@@ -1,6 +1,9 @@
 name: basic_client
 description: "A basic flutter network client"
-version: 1.0.0
+version: 1.0.1
+homepage: https://github.com/tyypgzl/basic_client
+issue_tracker: https://github.com/tyypgzl/basic_client/issues
+topics: [flutter, http, network, client]
 
 environment:
   sdk: ^3.5.4
